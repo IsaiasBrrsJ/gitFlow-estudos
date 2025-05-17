@@ -9,6 +9,10 @@
             Console.WriteLine("Hello World");
 
             Console.WriteLine(DateTime.Now);
+
+            Console.WriteLine("Testando novamente");
+
+            Console.WriteLine(  "outro teste");
         }
     }
 }
